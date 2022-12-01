@@ -1,2 +1,2 @@
-# School-Projects
-repository for all of my school projects
+# Projects
+repository for all of my projects
